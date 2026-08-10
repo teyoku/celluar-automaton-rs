@@ -5,6 +5,10 @@ A high-performance interactive simulator for cellular automata written in Rust, 
 - _Conway's Game of Life_ – the iconic zero-player game where patterns emerge from simple rules.
 - _Langton's Ant_ – a Turing-complete automaton with an ant that moves on a grid, changing cell colors.
 
+<p align="center">
+    <img src="img/output.gif" alt="App Gif" width="600">
+</p>
+
 ## Features
 
 - _Two automata_ – choose between Conway and Langton's Ant at startup.
