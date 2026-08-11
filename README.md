@@ -91,4 +91,6 @@ cargo run -- langton 100 100 5 60
 
 ## License
 
-This project is open-source and available under the MIT License. Feel free to use, modify, and distribute it as you like.
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE.md) file for details.
